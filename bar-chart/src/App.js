@@ -1,10 +1,10 @@
 import "./App.css";
-import LineChart from "./components/LineChart";
+import BarChart from "./components/BarChart";
 
 function App() {
   return (
     <>
-      <LineChart />
+      <BarChart />
     </>
   );
 }
